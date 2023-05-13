@@ -207,25 +207,8 @@
     background: rgba(0, 0, 0, 0.71);
 }
 
-.formulario1{
-    position: absolute;
-    width: 400px;
-    height: 26px;
-    left: 450px;
-    top: 350px;
-    color: whitesmoke;
-       
-}
+   
 
-.formulario2 {
-    position: absolute;
-    width: 500px;
-    height: 26px;
-    left: 400px;
-    top: 220px;
-    color: #46B4CF;
-
-}
 
 .formulario3 {
     position: absolute;
@@ -306,3 +289,258 @@
 
     background: rgba(0, 0, 0, 0.71);
 }
+
+.titulo1{
+
+    position: absolute;
+width: 500px;
+height: 100px;
+left: 400px;
+top: 200px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 15px;
+text-align: center;
+
+color: #46B4CF;
+}
+
+.nome{
+    position: absolute;
+    width: 202px;
+    height: 40px;
+    left: 400px;
+    top: 300px;
+    
+    font-family: 'Gugi';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 30px;
+    
+    color: #FFFFFF;
+    
+
+}
+
+.email{
+    position: absolute;
+    width: 202px;
+    height: 40px;
+    left: 400px;
+    top: 360px;
+    
+    font-family: 'Gugi';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 30px;
+    
+    color: #FFFFFF;
+    
+
+}
+
+.confirmacao{
+    position: absolute;
+    width: 202px;
+    height: 40px;
+    left: 400px;
+    top: 420px;
+    
+    font-family: 'Gugi';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 30px;
+    
+    color: #FFFFFF;
+    
+
+}
+
+.datanasc{
+    position: absolute;
+    width: 202px;
+    height: 40px;
+    left: 400px;
+    top: 480px;
+    
+    font-family: 'Gugi';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 30px;
+    
+    color: #FFFFFF;
+    
+
+}
+
+.usuario{
+    position: absolute;
+    width: 202px;
+    height: 40px;
+    left: 400px;
+    top: 540px;
+    
+    font-family: 'Gugi';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 30px;
+    
+    color: #FFFFFF;
+    
+
+}
+
+.senha{
+    position: absolute;
+    width: 202px;
+    height: 40px;
+    left: 400px;
+    top: 600px;
+    
+    font-family: 'Gugi';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 30px;
+    
+    color: #FFFFFF;
+    
+
+}
+
+.nome1{
+    position: absolute;
+width: 280px;
+height: 29px;
+left: 600px;
+top: 300px;
+
+background: #FFFFFF;
+border-radius: 58px;
+}
+
+.email1{
+    position: absolute;
+width: 280px;
+height: 29px;
+left: 600px;
+top: 360px;
+
+background: #FFFFFF;
+border-radius: 58px;
+}
+
+.confirmacao1{
+    position: absolute;
+width: 280px;
+height: 29px;
+left: 600px;
+top: 420px;
+
+background: #FFFFFF;
+border-radius: 58px;
+}
+
+.datanasc1{
+    position: absolute;
+width: 280px;
+height: 29px;
+left: 600px;
+top: 480px;
+
+background: #FFFFFF;
+border-radius: 58px;
+}
+
+.usuario1{
+    position: absolute;
+width: 280px;
+height: 29px;
+left: 600px;
+top: 540px;
+
+background: #FFFFFF;
+border-radius: 58px;
+}
+
+.senha1{
+    position: absolute;
+width: 280px;
+height: 29px;
+left: 600px;
+top: 600px;
+
+background: #FFFFFF;
+border-radius: 58px;
+}
+
+.titulo2{
+
+    position: absolute;
+width: 500px;
+height: 100px;
+left: 450px;
+top: 650px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 15px;
+text-align: center;
+
+color: #46B4CF;
+
+}
+
+.btn{
+    position: absolute;
+    width: 31px;
+    height: 29px;
+    left: 450px;
+    top: 650px; 
+
+}
+.btncadastro2{
+    position: absolute;
+    width: 180px;
+    height: 40px;
+    left: 550px;
+    top: 700px;
+
+    background: #46B4CF;
+border-radius: 59px;
+}
+
+.btncadastro1{
+    position: absolute;
+    width: 418px;
+    height: 51px;
+    left: 430px;
+    top: 700px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 44px;
+    text-align: center;
+    text-decoration: none;
+    
+    color: #FFFFFF;
+
+}
+
+
+
+
+
+

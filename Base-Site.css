@@ -146,25 +146,26 @@
      opacity: 60%;
     
     }
-    .logocentro2{
-        position: absolute;
-        width: 100%;
-        height: 500px;
-        top: 300px;
-        background: rgba(0, 0, 0, 0.71);
-        opacity: 60%;
-    }
 
-    .bloco-requisito {
+.logocentro2{
+    position: absolute;
+    width: 100%;
+    height: 500px;
+    top: 300px;
+    background: rgba(0, 0, 0, 0.71);
+    opacity: 60%;
+}
 
-        position: absolute;
-        width: 1250px;
-        height: 150px;
-        left: 49px;
-        top: 825px;
-        background: rgba(0, 0, 0, 0.71);
-    
-    }
+.bloco-requisito {
+
+    position: absolute;
+    width: 1250px;
+    height: 150px;
+    left: 49px;
+    top: 825px;
+    background: rgba(0, 0, 0, 0.71);
+
+}
 
 .historia1 {
     position: absolute;
@@ -206,6 +207,16 @@
     background: rgba(0, 0, 0, 0.71);
 }
 
+.formulario1{
+    position: absolute;
+    width: 400px;
+    height: 26px;
+    left: 450px;
+    top: 350px;
+    color: whitesmoke;
+       
+}
+
 .formulario2 {
     position: absolute;
     width: 500px;
@@ -234,4 +245,64 @@
     display: flex;
     background: rgba(0, 0, 0, 0.71);
     opacity: 80%;
+}
+
+.jogo {
+    position: absolute;
+    width: 1200px;
+    height: 300px;
+    left: 100px;
+    top: 169px;
+    
+    background: rgba(0, 0, 0, 0.71);
+}
+
+.jogo1 {
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    left: 165px;
+    top: 600px;
+
+    background: rgba(0, 0, 0, 0.71);
+}
+
+.jogo2 {
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    left: 575px;
+    top: 600px;
+
+    background: rgba(0, 0, 0, 0.71);
+}
+
+.jogo3 {
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    left: 1000px;
+    top: 600px;
+
+    background: rgba(0, 0, 0, 0.71);
+}
+
+.jogo4 {
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    left: 350px;
+    top: 900px;
+
+    background: rgba(0, 0, 0, 0.71);
+}
+
+.jogo5 {
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    left: 750px;
+    top: 900px;
+
+    background: rgba(0, 0, 0, 0.71);
 }

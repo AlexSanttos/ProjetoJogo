@@ -113,7 +113,7 @@
     position: absolute;
     width: 100%;
     height: 288px;
-    top: 100px;
+    top: 250px;
     background: rgba(0, 0, 0, 0.71);
 
 
@@ -138,12 +138,12 @@
 
     position: absolute;
     background: rgba(0, 0, 0, 0.71);
-     top: 300px;
+     top: 500px;
      width: 30%;
     left: 450px;
     display: block;
      display: flex;
-     opacity: 60%;
+     opacity: 90%;
     
     }
 
@@ -151,7 +151,7 @@
     position: absolute;
     width: 100%;
     height: 500px;
-    top: 300px;
+    top: 450px;
     background: rgba(0, 0, 0, 0.71);
     opacity: 60%;
 }
@@ -161,8 +161,8 @@
     position: absolute;
     width: 1250px;
     height: 150px;
-    left: 49px;
-    top: 825px;
+    left: 90px;
+    top: 1100px;
     background: rgba(0, 0, 0, 0.71);
 
 }
@@ -538,9 +538,17 @@ border-radius: 59px;
     color: #FFFFFF;
 
 }
+.Geral{
+
+    top: 900;
+}
+
+.textrequisitos{
+    font-family: 'Gugi';
+font-style: normal;
+font-weight: 300;
+font-size: 17px;
+color: #FFFFFF;
 
 
-
-
-
-
+}

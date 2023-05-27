@@ -249,6 +249,14 @@
 
     background: rgba(0, 0, 0, 0.71);
 }
+.fase1{
+
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    left: 25px;
+    top: 25px;
+}
 
 .jogo2 {
     position: absolute;
@@ -552,3 +560,24 @@ color: #FFFFFF;
 
 
 }
+
+.historiapai{
+    top: 150;
+    font-family: 'Gugi';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    color: #FFFFFF;
+
+}
+
+.historiaassassino{
+    top: 150;
+    font-family: 'Gugi';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    color: #FFFFFF;
+
+}
+

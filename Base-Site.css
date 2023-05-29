@@ -230,7 +230,7 @@
     opacity: 80%;
 }
 
-.jogo {
+jogo {
     position: absolute;
     width: 1200px;
     height: 300px;
@@ -245,7 +245,7 @@
     width: 200px;
     height: 200px;
     left: 165px;
-    top: 600px;
+    top: 700px;
 
     background: rgba(0, 0, 0, 0.71);
 }
@@ -263,7 +263,7 @@
     width: 200px;
     height: 200px;
     left: 575px;
-    top: 600px;
+    top: 700px;
 
     background: rgba(0, 0, 0, 0.71);
 }
@@ -273,7 +273,7 @@
     width: 200px;
     height: 200px;
     left: 1000px;
-    top: 600px;
+    top: 700px;
 
     background: rgba(0, 0, 0, 0.71);
 }
@@ -283,7 +283,7 @@
     width: 200px;
     height: 200px;
     left: 350px;
-    top: 900px;
+    top: 1200px;
 
     background: rgba(0, 0, 0, 0.71);
 }
@@ -293,7 +293,7 @@
     width: 200px;
     height: 200px;
     left: 750px;
-    top: 900px;
+    top: 1200px;
 
     background: rgba(0, 0, 0, 0.71);
 }
@@ -581,3 +581,11 @@ color: #FFFFFF;
 
 }
 
+.video{
+
+    position: absolute;
+    width: 100px;
+    height: 300px;
+    left: 400px;
+    top: 200px;  
+}

@@ -108,6 +108,12 @@
     
 }
 
+.sliderbar {
+    position: absolute;
+    left: 450px;
+    top: 0px;
+    
+}
 .container-slide {
 
     position: absolute;
@@ -119,7 +125,7 @@
 
 }
 
-.sliderbar {}
+
 
 .logocentro {
 
@@ -127,7 +133,7 @@
     background: rgba(0, 0, 0, 0.71);
     top: 300px;
     width: 30%;
-    left: 450px;
+    left: 470px;
     display: block;
     display: flex;
     opacity: 60%;
@@ -140,7 +146,7 @@
     background: rgba(0, 0, 0, 0.71);
      top: 500px;
      width: 30%;
-    left: 450px;
+    left: 470px;
     display: block;
      display: flex;
      opacity: 90%;
@@ -588,4 +594,21 @@ color: #FFFFFF;
     height: 300px;
     left: 400px;
     top: 200px;  
+}
+
+.pai{
+    
+    width: 487px;
+    height: 450px;
+    left: 710px;
+    top: 169px;
+
+}
+
+.assassino{
+    width: 487px;
+    height: 450px;
+    left: 710px;
+    top: 169px;
+
 }
